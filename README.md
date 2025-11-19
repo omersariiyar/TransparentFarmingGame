@@ -4,19 +4,19 @@ Bu proje, Unity 2D ortamında geliştirilmiş, oyuncunun tohum ekme, bitki büy�
 
 🔑 Temel Mekanikler
 
-    Tohum Seçimi: Envanterden (Canvas üzerindeki butonlar aracılığıyla) Seed veya Carrot tohumları seçilebilir.
+Tohum Seçimi: Envanterden (Canvas üzerindeki butonlar aracılığıyla) Seed veya Carrot tohumları seçilebilir.
 
-    Ekim: Seçili tohum ile boş tarla alanına tıklanarak ekim yapılır. Tohum envanterden düşülür.
+Ekim: Seçili tohum ile boş tarla alanına tıklanarak ekim yapılır. Tohum envanterden düşülür.
 
-    Büyüme: Ekilen bitki, belirlenen süre (timeToGrow) boyunca aşamalı olarak büyür ve görseli değişir.
+Büyüme: Ekilen bitki, belirlenen süre (timeToGrow) boyunca aşamalı olarak büyür ve görseli değişir.
 
-    Hasat: Bitki olgunlaştığında (Harvestable), tarlaya tıklandığında ürün toplanır. Hasat, envantere rastgele miktarda (1-2 adet) ek tohum düşürür.
+Hasat: Bitki olgunlaştığında (Harvestable), tarlaya tıklandığında ürün toplanır. Hasat, envantere rastgele miktarda (1-2 adet) ek tohum düşürür.
 
-    Kayıt Sistemi: Envanter durumu ve tarlaların ekili/büyüme durumu (PlayerPrefs) kullanılarak kaydedilir ve yüklenir.
+Kayıt Sistemi: Envanter durumu ve tarlaların ekili/büyüme durumu (PlayerPrefs) kullanılarak kaydedilir ve yüklenir.
 
 ⚙️ Kurulum ve Çalıştırma
 
-    Kaynak kodları direkt yükleyerek unity 6 ile geliştirdiğimden unity 6 ile Hub'dan oyuna erişebilirsiniz.
+TransparentGame RedStains.unitypackage dosyasını yükleyip projeniz açıkken dosyayı çalışıtırıp import etmeniz yeterli olucaktır.
 
 📌 Kritik Ayar: Tarla ID'leri
 
