@@ -4,6 +4,8 @@ Youtube => https://youtu.be/OXG1uBhsEW0
 
 Bu proje, Unity 2D ortamında geliştirilmiş, oyuncunun tohum ekme, bitki büyümesini bekleme ve hasat etme gibi temel çiftçilik döngüsünü deneyimlediği minimalist bir oyundur.
 
+TransparentGame.png
+
 🔑 Temel Mekanikler
 
 Tohum Seçimi: Envanterden (Canvas üzerindeki butonlar aracılığıyla) Seed veya Carrot tohumları seçilebilir.
