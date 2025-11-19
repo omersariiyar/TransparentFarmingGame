@@ -26,6 +26,6 @@ Her bir FarmPlot objesinin Inspector penceresindeki Plot ID değişkeni, veriler
 
 📂 Script Yapısı
 
-InventorySystem.cs	Envanter, tohum/ürün sayımı, büyüme takibi, UI güncellemeleri ve PlayerPrefs kaydı/yüklemesi.
-FarmPlot.cs	Tarlanın durumu (Boş, Büyüyor, Hasat Edilebilir), büyüme zamanlayıcısı, ekim/hasat mantığı ve tarlanın durum kaydı/yüklemesi.
-InputManager.cs	Kullanıcının fare tıklamalarını algılayıp, tıklanan tarla objesinin Interact() metodunu çağırma.
+    InventorySystem.cs :	Envanter, tohum/ürün sayımı, büyüme takibi, UI güncellemeleri ve PlayerPrefs kaydı/yüklemesi.
+    FarmPlot.cs	: Tarlanın durumu (Boş, Büyüyor, Hasat Edilebilir), büyüme zamanlayıcısı, ekim/hasat mantığı ve tarlanın durum kaydı/yüklemesi.
+    InputManager.cs	: Kullanıcının fare tıklamalarını algılayıp, tıklanan tarla objesinin Interact() metodunu çağırma.
